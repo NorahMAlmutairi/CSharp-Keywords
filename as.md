@@ -1,10 +1,27 @@
+<div dir="rtl">
+
 # as
 
-## Concept 
-The `as` operator explicitly converts the result of an expression to a given reference or nullable value type. If the conversion is not possible, the `as` operator returns `null`. Unlike a cast expression, the `as` operator never throws an exception.
+## المفهوم 
+تقوم كلمة
+`as`
+بتحويل نتيجة تعبير ما إلى مرجع معين أو نوع بيانات يقبل قيمة
+`null`.
+إذا لم يكن التحويل ممكناً ، تقوم كلمة 
+`as`
+بإرجاع قيمة
+`null`.
+على عكس تغيير هيئة النوع
+(casting) ،
+لا تقوم كلمة
+`as`
+بإلقاء خطأ
+(exception)
+أبداً.
 
-## Example 
-The following example demonstrates the usage of the `as` operator:
+## المثال
+يوضح المثال التالي كفية إستخدام كلمة `as`:
+</div>
 
 ```C#
 IEnumerable<int> numbers = new[] { 10, 20, 30 };
