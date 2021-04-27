@@ -1,10 +1,16 @@
+<div dir="rtl">
+
 # class
 
-## Concept 
-A class is like a blueprint of a specific object. In the real world, every object has some color, shape, and functionalities. Only single inheritance is allowed in C#. In other words, a class can inherit implementation from one base class only. However, a class can implement more than one interface.
+## المفهوم 
+الـ`class`
+هو بمثابة المخطط الأساسي لنوع من البيانات.
+في العالم الحقيقي ، كل كيان لديه خصائص معينة ، كالإسم مثالاً ، أو اللون ، أو حتى المهارات والأمور التي يستطيع الكيان عملها. كذلك هو الحال في الـ`class` ،
+حيث يقوم المبرمج بوضع البيانات التي تمثل الكيان والعمليات التي يستطيع هذا الكيان القيام بها.
 
-## Example 
-Classes are declared using the keyword `class`, as shown in the following example:
+## المثال
+نستطيع القيام بتعريف `class` كما هو موضح في المثال التالي:
+</div>
 
 ```C#
 class TestClass
