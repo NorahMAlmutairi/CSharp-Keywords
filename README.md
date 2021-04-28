@@ -27,5 +27,15 @@
 
 - [كلمة ref](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/ref.md)
 
+- [كلمة public](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/public.md)
+
+- [كلمة private](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/private.md)
+
+- [كلمة protected](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/protected.md)
+
+- [كلمة virtual](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/virtual.md)
+
+- [كلمة override](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/override.md)
+
 
 </div>

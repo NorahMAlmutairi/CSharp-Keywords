@@ -1,10 +1,17 @@
+<div dir="rtl">
+
 # abstract
 
-## Concept 
-The `abstract` modifier indicates that the thing being modified has a missing or incomplete implementation. The abstract modifier can be used with classes, methods, properties, indexers, and events. Use the `abstract` modifier in a class declaration to indicate that a class is intended only to be a base class of other classes, not instantiated on its own. Members marked as abstract must be implemented by non-abstract classes that derive from the abstract class.
+## المفهوم
+ أسلوب يستخدم لإخفاء تفاصيل تنفيذ البرنامج. لتطبيق مفهوم الـ Abstraction نستخدم الكلمة `abstract` للدوال والكلاس 
 
-## Example 
-In this example, the class `Square` must provide an implementation of `GetArea` because it derives from `Shape`:
+ * `abstract class` : هو كلاس مقيد لا يمكن انشاء كائن منه و للوصول له يجب ان تكون موروثة من كلاس اخر.
+
+ * `abstract method` : يمكن استخدامها داخل الـ abstract class ولا تحتوي على محتوى.
+
+## مثال
+  يجب على كلاس `Square` أن يوفر تنفيذاً لدالة `GetArea` لأنها مشتقة من كلاس `Shape`. 
+</div>
 
 ```C#
 abstract class Shape
