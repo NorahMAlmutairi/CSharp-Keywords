@@ -35,7 +35,13 @@
 
 - [كلمة virtual](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/virtual.md)
 
-- [كلمة override](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/override.md)
+- [كلمة params](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/params.md)
+
+- [كلمة object](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/object.md)
+
+- [كلمة enum](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/enum.md)
+
+- [كلمة this](https://github.com/NorahMAlmutairi/CSharp-Keywords/blob/main/this.md)
 
 
 </div>
